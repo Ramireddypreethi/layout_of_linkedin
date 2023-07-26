@@ -1,0 +1,91 @@
+.container{
+    background-color: grey;
+    height:700px;
+    width: 700px;
+    margin-left:400px;
+    border:2px solid black;
+    display:flex;
+    
+}
+.child1{
+    height:680px;
+    width:20%;
+    background-color: antiquewhite;
+    margin-top:10px ;
+    margin-right: 5px;
+    margin-left: 5px;
+    border:2px solid black;
+}
+.child2{
+    height: 680px;
+    width:60%;
+    background-color: pink;
+    margin-top:13px ;
+    margin-right: 5px;
+    border:2px solid black;
+}
+.child3{
+    margin-top:10px ;
+    height:680px;
+    width: 20%;
+    background-color: skyblue;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border:2px solid black;
+}
+.cc1{
+    background-color: aquamarine;
+    height:55%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border:2px solid black;
+}
+.cc2{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border:2px solid black;
+    height:40%;
+    background-color: yellow;
+}
+.cc3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 5px;
+    height:95%;
+    background-color:lavender;
+}
+.cc4{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height:35%;
+    background-color: aqua;
+    border:2px solid black;
+}
+.cc5{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 55%;
+    background-color: lightgreen;
+    border:2px solid black;
+}
+.cc6{
+    height: 55%;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color:plum;
+    border:2px solid black;
+}
+.cc7{
+    margin:10px;
+    height: 37%;
+    background-color:rgb(232, 226, 237);
+    border:2px solid black;
+}
